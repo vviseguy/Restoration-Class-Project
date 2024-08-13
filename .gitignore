@@ -1,0 +1,17 @@
+# Node.js dependencies
+server/node_modules/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+*/.env
+
+# Chrome extension build outputs
+*.crx
+*.pem
+
+# OS-specific files
+.DS_Store
+Thumbs.db

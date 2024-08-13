@@ -1,0 +1,14 @@
+{
+    "name": "cross-reference-server",
+    "version": "1.0.0",
+    "description": "Node.js server to cross-reference text with church materials using the OpenAI API.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "dotenv": "^16.0.3"
+    }
+  }
+  
